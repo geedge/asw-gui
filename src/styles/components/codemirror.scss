@@ -1,0 +1,6 @@
+.codemirror-container{
+  display: block !important;
+  .CodeMirror.CodeMirror-wrap{
+    line-height: inherit !important;
+  }
+}
