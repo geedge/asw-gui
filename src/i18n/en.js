@@ -6,5 +6,6 @@ export default {
     edit: 'Edit',
     save: 'Save',
     cancel: 'Cancel',
-  }
-}
+    notFound: 'Not found',
+  },
+};

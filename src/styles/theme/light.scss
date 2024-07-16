@@ -1,9 +1,48 @@
-:root{
-  /* 1.字色 */
-  // 标题字色
-  --color-text-primary: #333333;
-  // 普通字色
-  --color-text-regular: #666666;
-  // 标题字色
-  --color-text-secondary: #999999;
+:root {
+  --primary: #185bdc;
+  --primary_inactive: #e0eaff;
+  --primary_inactive_hover: #cddbf8;
+  --success: #2ca538;
+  --success_secondary: #cff9d3;
+  --error: #980f0f;
+  --background: #f8fbff;
+  --background_secondary: #fff;
+  --text: #0e1236;
+  --text_secondary: #98a0bc;
+  --border: #ceced2;
+  --pcap_input_background: #e0eaff;
+  --table_border: #f7f7f7;
+  --table_header: #fafafa;
+  --folder_background_active: #e0eaff;
+  --filter_background: #e0eaff;
+  --filter_hover: #cadcff;
+  --table_row_hover: #f6f9ff;
+  --chart_box_background: #f2f7ff;
+  --table_small_header: #e5eeff;
+  --table_small_row: #f5f9ff;
+  --table_small_border: #ececec;
+  --drag_chart_hover: #f1f6ff;
+  --timebar_background: #f9faff;
+  --menu_background: #fff;
+  --log_tabs: #ebeaea;
+  --local_chip: #ededed;
+  --info_background: #ecf0ff;
+  --error_background: #ffecec;
+  --error_icon: #980f0f;
+  --error_secondary: #fae3e3;
+}
+
+// 覆盖elmentui主题色
+:root {
+  --el-text-color-primary: var(--text);
+  --el-text-color-regular: var(--text);
+  --el-text-color-secondary: var(--text);
+
+  .el-input {
+    --el-input-icon-color: var(--text);
+  }
+
+  .el-dropdown__popper {
+    --el-dropdown-menuItem-hover-fill: var(--primary_inactive);
+  }
 }

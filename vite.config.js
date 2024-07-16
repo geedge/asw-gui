@@ -9,6 +9,7 @@ export default defineConfig({
       alias: {
         //别名配置
         "@": path.resolve(__dirname, "./src"),
+        '~/': `${path.resolve(__dirname, 'src')}/`,
       },
   },
   //本地运行配置，以及反向代理配置

@@ -6,5 +6,6 @@ export default {
     edit: '编辑',
     save: '保存',
     cancel: '取消',
+    notFound: '找不到',
   }
 }
