@@ -23,7 +23,7 @@ import leftMenu from '@/components/layout/leftMenu.vue';
     height: calc(100vh - 70px);
     position: relative;
     .pageContent {
-      padding: 18px 45px 32px 107px;
+      padding: 25px 50px 25px calc(64px + 50px);
       width: 100%;
       height: 100%;
       display: flex;

@@ -11,7 +11,7 @@
         @click="jummp(item.route)"
       >
         <div class="leftMenu-icon">
-          <el-icon><Notebook /></el-icon>
+          <i class="asw-icon" :class="item.icon"></i>
         </div>
         <div class="leftMenu-text">{{ item.name }}</div>
       </li>
@@ -53,34 +53,42 @@ const menuList = ref([
   {
     name: 'Workbooks',
     route: '/workbooks',
+    icon: 'icon-Workbooks',
   },
   {
     name: 'Applications',
     route: '/applications',
+    icon: 'icon-Applications',
   },
   {
     name: 'Signatures',
     route: '/signatures',
+    icon: 'icon-Signatures',
   },
   {
     name: 'Pcaps',
     route: '/pcaps',
+    icon: 'icon-Pcaps',
   },
   {
     name: 'Packages',
     route: '/packages',
+    icon: 'icon-Packages',
   },
   {
     name: 'Jobs',
     route: '/jobs',
+    icon: 'icon-Jobs',
   },
   {
     name: 'Playbooks',
     route: '/playbooks',
+    icon: 'icon-Playbooks',
   },
   {
     name: 'Runners',
     route: '/runners',
+    icon: 'icon-Runners',
   },
 ]);
 </script>
@@ -139,8 +147,11 @@ const menuList = ref([
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 32px;
+        font-size: 30px;
         color: var(--text_secondary);
+        i{
+          font-size: inherit;
+        }
       }
       .leftMenu-text {
         display: none;

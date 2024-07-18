@@ -3,6 +3,8 @@ import App from './App.vue'
 
 import './styles/element/index.scss'
 import './styles/index.scss'
+import '@/assets/iconfont/iconfont.css'
+import '@/assets/iconfont/iconfont.js'
 
 import router from "./router"
 import { createPinia } from 'pinia'

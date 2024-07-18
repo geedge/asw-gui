@@ -1,0 +1,147 @@
+@font-face {
+  font-family: "asw-icon"; /* Project id 4624922 */
+  src: url('iconfont.woff2?t=1721283605901') format('woff2'),
+       url('iconfont.woff?t=1721283605901') format('woff'),
+       url('iconfont.ttf?t=1721283605901') format('truetype');
+}
+
+.asw-icon {
+  font-family: "asw-icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sign-out:before {
+  content: "\e605";
+}
+
+.icon-Search:before {
+  content: "\e81b";
+}
+
+.icon-bofang:before {
+  content: "\e817";
+}
+
+.icon-Activity:before {
+  content: "\e818";
+}
+
+.icon-wenbenqiehuan:before {
+  content: "\e819";
+}
+
+.icon-shaixuan:before {
+  content: "\e81a";
+}
+
+.icon-table:before {
+  content: "\e808";
+}
+
+.icon-a-Remotedesktop:before {
+  content: "\e809";
+}
+
+.icon-View:before {
+  content: "\e80a";
+}
+
+.icon-down:before {
+  content: "\e80b";
+}
+
+.icon-Close:before {
+  content: "\e80c";
+}
+
+.icon-chart:before {
+  content: "\e80d";
+}
+
+.icon-a-TemporaryConditions:before {
+  content: "\e80e";
+}
+
+.icon-Member:before {
+  content: "\e80f";
+}
+
+.icon-collect:before {
+  content: "\e810";
+}
+
+.icon-Delete:before {
+  content: "\e811";
+}
+
+.icon-yunhang:before {
+  content: "\e812";
+}
+
+.icon-zhiding:before {
+  content: "\e813";
+}
+
+.icon-Download:before {
+  content: "\e814";
+}
+
+.icon-mingliang:before {
+  content: "\e815";
+}
+
+.icon-Analyze:before {
+  content: "\e816";
+}
+
+.icon-More:before {
+  content: "\e805";
+}
+
+.icon-zuidahua:before {
+  content: "\e806";
+}
+
+.icon-Personal:before {
+  content: "\e807";
+}
+
+.icon-Add:before {
+  content: "\e804";
+}
+
+.icon-Pcaps:before {
+  content: "\e7fd";
+}
+
+.icon-Playbooks:before {
+  content: "\e7fe";
+}
+
+.icon-Signatures:before {
+  content: "\e7ff";
+}
+
+.icon-Runners:before {
+  content: "\e800";
+}
+
+.icon-Packages:before {
+  content: "\e801";
+}
+
+.icon-Jobs:before {
+  content: "\e802";
+}
+
+.icon-Applications:before {
+  content: "\e803";
+}
+
+.icon-Workbooks:before {
+  content: "\e7fc";
+}
+

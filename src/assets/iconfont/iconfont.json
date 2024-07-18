@@ -1,0 +1,240 @@
+{
+  "id": "4624922",
+  "name": "ASW",
+  "font_family": "asw-icon",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21683035",
+      "name": "sign-out",
+      "font_class": "sign-out",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "41130229",
+      "name": "Search",
+      "font_class": "Search",
+      "unicode": "e81b",
+      "unicode_decimal": 59419
+    },
+    {
+      "icon_id": "41130112",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e817",
+      "unicode_decimal": 59415
+    },
+    {
+      "icon_id": "41130114",
+      "name": "Activity",
+      "font_class": "Activity",
+      "unicode": "e818",
+      "unicode_decimal": 59416
+    },
+    {
+      "icon_id": "41130109",
+      "name": "文本切换",
+      "font_class": "wenbenqiehuan",
+      "unicode": "e819",
+      "unicode_decimal": 59417
+    },
+    {
+      "icon_id": "41130108",
+      "name": "筛选",
+      "font_class": "shaixuan",
+      "unicode": "e81a",
+      "unicode_decimal": 59418
+    },
+    {
+      "icon_id": "41130131",
+      "name": "table",
+      "font_class": "table",
+      "unicode": "e808",
+      "unicode_decimal": 59400
+    },
+    {
+      "icon_id": "41130129",
+      "name": "Remote desktop",
+      "font_class": "a-Remotedesktop",
+      "unicode": "e809",
+      "unicode_decimal": 59401
+    },
+    {
+      "icon_id": "41130128",
+      "name": "View",
+      "font_class": "View",
+      "unicode": "e80a",
+      "unicode_decimal": 59402
+    },
+    {
+      "icon_id": "41130120",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e80b",
+      "unicode_decimal": 59403
+    },
+    {
+      "icon_id": "41130121",
+      "name": "Close",
+      "font_class": "Close",
+      "unicode": "e80c",
+      "unicode_decimal": 59404
+    },
+    {
+      "icon_id": "41130127",
+      "name": "chart",
+      "font_class": "chart",
+      "unicode": "e80d",
+      "unicode_decimal": 59405
+    },
+    {
+      "icon_id": "41130126",
+      "name": "Temporary Conditions",
+      "font_class": "a-TemporaryConditions",
+      "unicode": "e80e",
+      "unicode_decimal": 59406
+    },
+    {
+      "icon_id": "41130125",
+      "name": "Member",
+      "font_class": "Member",
+      "unicode": "e80f",
+      "unicode_decimal": 59407
+    },
+    {
+      "icon_id": "41130119",
+      "name": "collect",
+      "font_class": "collect",
+      "unicode": "e810",
+      "unicode_decimal": 59408
+    },
+    {
+      "icon_id": "41130123",
+      "name": "Delete",
+      "font_class": "Delete",
+      "unicode": "e811",
+      "unicode_decimal": 59409
+    },
+    {
+      "icon_id": "41130110",
+      "name": "运行",
+      "font_class": "yunhang",
+      "unicode": "e812",
+      "unicode_decimal": 59410
+    },
+    {
+      "icon_id": "41130111",
+      "name": "置顶",
+      "font_class": "zhiding",
+      "unicode": "e813",
+      "unicode_decimal": 59411
+    },
+    {
+      "icon_id": "41130117",
+      "name": "Download",
+      "font_class": "Download",
+      "unicode": "e814",
+      "unicode_decimal": 59412
+    },
+    {
+      "icon_id": "41130118",
+      "name": "明亮",
+      "font_class": "mingliang",
+      "unicode": "e815",
+      "unicode_decimal": 59413
+    },
+    {
+      "icon_id": "41130116",
+      "name": "Analyze",
+      "font_class": "Analyze",
+      "unicode": "e816",
+      "unicode_decimal": 59414
+    },
+    {
+      "icon_id": "41130162",
+      "name": "More",
+      "font_class": "More",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "41130160",
+      "name": "最大化",
+      "font_class": "zuidahua",
+      "unicode": "e806",
+      "unicode_decimal": 59398
+    },
+    {
+      "icon_id": "41130161",
+      "name": "Personal",
+      "font_class": "Personal",
+      "unicode": "e807",
+      "unicode_decimal": 59399
+    },
+    {
+      "icon_id": "41130164",
+      "name": "Add",
+      "font_class": "Add",
+      "unicode": "e804",
+      "unicode_decimal": 59396
+    },
+    {
+      "icon_id": "41129282",
+      "name": "Pcaps",
+      "font_class": "Pcaps",
+      "unicode": "e7fd",
+      "unicode_decimal": 59389
+    },
+    {
+      "icon_id": "41129281",
+      "name": "Playbooks",
+      "font_class": "Playbooks",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "41129280",
+      "name": "Signatures",
+      "font_class": "Signatures",
+      "unicode": "e7ff",
+      "unicode_decimal": 59391
+    },
+    {
+      "icon_id": "41129279",
+      "name": "Runners",
+      "font_class": "Runners",
+      "unicode": "e800",
+      "unicode_decimal": 59392
+    },
+    {
+      "icon_id": "41129278",
+      "name": "Packages",
+      "font_class": "Packages",
+      "unicode": "e801",
+      "unicode_decimal": 59393
+    },
+    {
+      "icon_id": "41129277",
+      "name": "Jobs",
+      "font_class": "Jobs",
+      "unicode": "e802",
+      "unicode_decimal": 59394
+    },
+    {
+      "icon_id": "41129276",
+      "name": "Applications",
+      "font_class": "Applications",
+      "unicode": "e803",
+      "unicode_decimal": 59395
+    },
+    {
+      "icon_id": "41129274",
+      "name": "Workbooks",
+      "font_class": "Workbooks",
+      "unicode": "e7fc",
+      "unicode_decimal": 59388
+    }
+  ]
+}

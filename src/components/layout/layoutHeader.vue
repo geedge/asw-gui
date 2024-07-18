@@ -68,9 +68,7 @@
               </div>
             </el-dropdown-item>
             <el-dropdown-item>
-              <el-icon :size="16">
-                <CircleClose />
-              </el-icon>
+              <i class="asw-icon icon-sign-out"></i>
               <span class="profile-text">Sign Out</span>
             </el-dropdown-item>
           </el-dropdown-menu>
@@ -84,7 +82,7 @@
         popper-class="headerMore-popper"
       >
         <button class="headerMore-dropdown-button">
-          <el-icon><Grid /></el-icon>
+          <i class="asw-icon icon-More"></i>
         </button>
         <template #dropdown>
           <el-dropdown-menu>
@@ -256,12 +254,14 @@ const themeChange = (val) => {
         cursor: pointer;
         outline: none;
         color: var(--text);
-        font-size: 22px;
         width: 28px;
         height: 28px;
         display: flex;
         justify-content: center;
         align-items: center;
+        i{
+          font-size: 18px;
+        }
         &:hover {
           color: var(--primary);
         }
@@ -276,7 +276,11 @@ const themeChange = (val) => {
 </style>
 <style lang="scss">
 .avatar-popper {
-  .profile-text, .el-icon {
+  .profile-text  {
+    color: var(--text);
+  }
+  i{
+    font-size: 18px;
     color: var(--text);
   }
   .profile-info{
